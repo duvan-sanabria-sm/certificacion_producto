@@ -1,0 +1,10 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(?:app|config|database|docs|python|storage|tools|tmp)(?:/|$) - [F,L,NC]
+</IfModule>
+
+<FilesMatch "(^\.|\.(sql|md|ini|log|env|py)$)">
+  Require all denied
+</FilesMatch>

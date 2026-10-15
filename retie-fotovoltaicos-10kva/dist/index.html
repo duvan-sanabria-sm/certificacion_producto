@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ruta guiada para identificar el parámetro aplicable a proyectos fotovoltaicos frente al umbral de 10 kVA del RETIE 2026.">
+  <title>Ruta RETIE fotovoltaica · 10 kVA</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23006291'/%3E%3Cpath d='M13 42h38M19 34l7-12 7 12 7-12 7 12' fill='none' stroke='%23fff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#ruta">Ir a la ruta de decisión</a>
+
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Servimeters, inicio"><span class="brand-sm">SM</span><span>SERVIMETERS</span></a>
+    <span class="edition">RETIE · 2026</span>
+  </header>
+
+  <main id="inicio">
+    <section class="hero shell">
+      <div>
+        <p class="eyebrow">Herramienta interna de preclasificación</p>
+        <h1>¿Qué capacidad debo evaluar en un proyecto fotovoltaico?</h1>
+        <p class="hero-copy">Responde preguntas sencillas. La herramienta identifica el parámetro, cita el numeral aplicable y orienta el siguiente paso.</p>
+      </div>
+      <div class="hero-note"><span>Idea clave</span><strong>Instalada ≠ instalable</strong><p>La potencia del inversor no reemplaza la capacidad de la acometida.</p></div>
+    </section>
+
+    <section id="ruta" class="wizard-section shell" aria-labelledby="wizard-title">
+      <div class="section-heading compact-heading">
+        <div><p class="eyebrow">Ruta rápida</p><h2 id="wizard-title">Identifique el criterio en menos de dos minutos</h2></div>
+        <button id="resetButton" class="text-button" type="button">Reiniciar</button>
+      </div>
+
+      <div class="identity-strip" aria-label="Identificación opcional del caso">
+        <label><span>Proyecto <small>opcional</small></span><input id="projectName" type="text" autocomplete="off" placeholder="Nombre o cotización"></label>
+        <label><span>Cliente <small>opcional</small></span><input id="clientName" type="text" autocomplete="off" placeholder="Nombre del cliente"></label>
+      </div>
+
+      <div class="wizard-layout">
+        <article class="wizard-card" aria-live="polite">
+          <div class="progress-row"><span id="stepLabel">Paso 1</span><div class="progress-track" aria-hidden="true"><span id="progressBar"></span></div></div>
+          <div id="normCallout" class="norm-callout" hidden><span>Referencia aplicable</span><strong id="normReference"></strong><p id="normExplanation"></p></div>
+
+          <div id="questionView">
+            <p id="questionKicker" class="question-kicker">Primera pregunta</p>
+            <h3 id="questionText">¿El sistema se conecta a la red para entregar excedentes?</h3>
+            <p id="questionHelp" class="question-help">Seleccione la opción A o B según el diagrama unifilar y el modo real de operación.</p>
+            <div id="answerArea" class="answer-area"></div>
+          </div>
+
+          <div id="resultView" class="result-view" hidden>
+            <span id="resultBadge" class="result-badge">Resultado</span><h3 id="resultTitle"></h3><p id="resultText" class="result-text"></p>
+            <dl class="result-facts">
+              <div><dt>Parámetro</dt><dd id="resultParameter"></dd></div><div><dt>Valor</dt><dd id="resultValue"></dd></div><div><dt>Numeral</dt><dd id="resultNorm"></dd></div>
+            </dl>
+            <div class="next-action"><span>Siguiente acción</span><p id="resultAction"></p></div>
+            <p class="scope-warning"><strong>Siempre:</strong> revise los demás supuestos del artículo 4.3.2 antes de concluir el alcance definitivo.</p>
+            <div class="result-actions"><button id="printButton" class="primary-button" type="button">Imprimir resultado</button><button id="newCaseButton" class="secondary-button" type="button">Nuevo análisis</button></div>
+          </div>
+
+          <div class="wizard-footer"><button id="backButton" class="back-button" type="button" hidden>← Volver</button><p id="routeSummary">Aún no se ha seleccionado una ruta.</p></div>
+        </article>
+
+        <aside class="diagram-card" aria-labelledby="diagram-title">
+          <p class="eyebrow">Gráfico interactivo</p>
+          <h3 id="diagram-title">Conexión y criterio aplicado</h3>
+          <div id="diagramCanvas" class="diagram-canvas mode-idle verdict-pending">
+            <svg viewBox="0 0 520 300" role="img" aria-labelledby="diagram-svg-title diagram-svg-description">
+              <title id="diagram-svg-title">Diagrama interactivo del sistema fotovoltaico</title>
+              <desc id="diagram-svg-description">La red, la acometida, el inversor y las cargas cambian de estado según las respuestas.</desc>
+              <defs>
+                <marker id="arrowBlue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z"/></marker>
+              </defs>
+              <g class="network-unit">
+                <path class="network-shape" d="M58 68v137M30 99h56M38 99l20-32 20 32M40 132h36M45 132l-9 73M71 132l9 73"/>
+                <circle cx="58" cy="115" r="6"/>
+                <text x="58" y="234" text-anchor="middle">RED</text>
+              </g>
+              <path class="grid-connection" d="M88 146H211"/>
+              <path class="energy-flow flow-grid" d="M205 137H102" marker-end="url(#arrowBlue)"/>
+              <g class="disconnect-mark"><path d="M139 128l24 36M163 128l-24 36"/><text x="151" y="183" text-anchor="middle">AISLADO</text></g>
+              <g class="house-unit">
+                <path class="house-shape" d="M211 126l111-75 112 78v108H211zM194 136L322 48l130 90"/>
+                <path class="panel-shape" d="M275 48l82 22-18 54-82-22zM294 53l-18 54M315 59l-18 54M337 64l-18 54M265 72l82 22"/>
+                <rect class="inverter-shape" x="250" y="157" width="68" height="67" rx="8"/>
+                <path class="inverter-symbol" d="M265 177h38M284 167v20M264 207c9-13 18 13 29 0"/>
+                <rect class="load-shape" x="367" y="161" width="50" height="63" rx="6"/>
+                <path class="load-symbol" d="M378 178h28M378 192h28M378 206h28"/>
+                <path class="local-connection" d="M318 191h49"/>
+                <path class="energy-flow flow-load" d="M326 181h35" marker-end="url(#arrowBlue)"/>
+                <text x="284" y="255" text-anchor="middle">INVERSOR</text>
+                <text x="393" y="255" text-anchor="middle">CARGA</text>
+              </g>
+              <g class="service-focus"><rect x="187" y="118" width="42" height="119" rx="10"/><text x="208" y="278" text-anchor="middle">ACOMETIDA</text></g>
+              <g class="inverter-focus"><rect x="241" y="148" width="86" height="87" rx="13"/></g>
+            </svg>
+
+            <div class="diagram-readout">
+              <div><span>Conexión</span><strong id="diagramConnection">Por definir</strong></div>
+              <div><span>Parámetro</span><strong id="diagramParameter">Por definir</strong></div>
+              <div><span>Valor</span><strong id="diagramValue">Sin dato</strong></div>
+            </div>
+            <div id="diagramVerdict" class="diagram-verdict" role="status" aria-live="polite">
+              <span id="diagramVerdictIcon">?</span>
+              <div><small>Resultado</small><strong id="diagramVerdictText">Seleccione una opción para comenzar</strong><p id="diagramLiteral">El numeral aparecerá durante la ruta.</p></div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="source-section shell" aria-labelledby="source-title"><h2 id="source-title">Base de la herramienta</h2><p>Resolución 40284 del 23 de junio de 2026 · RETIE compilado · Libro 4 · artículo 4.3.2.1, literales h e i.</p><p class="fine-print">Esta ruta apoya la preclasificación comercial y técnica. No sustituye la revisión del diseñador, del organismo evaluador ni de los demás supuestos reglamentarios.</p></section>
+  </main>
+  <footer><span>Servimeters</span><span>Herramienta interna de apoyo · RETIE 2026</span></footer>
+</body>
+</html>

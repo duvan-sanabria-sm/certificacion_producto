@@ -1,0 +1,30 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: servimeters-producto:1.0.0
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "127.0.0.1:${SERVIMETERS_HTTP_PORT:-8080}:8080"
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=64m,mode=1777
+    volumes:
+      - servimeters_uploads:/var/www/html/storage/uploads
+      - servimeters_sessions:/var/www/html/storage/sessions
+      - servimeters_temp:/var/www/html/tmp
+    cpus: 1.5
+    mem_limit: 768m
+    pids_limit: 128
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+
+volumes:
+  servimeters_uploads:
+  servimeters_sessions:
+  servimeters_temp:

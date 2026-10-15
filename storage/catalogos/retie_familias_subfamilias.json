@@ -1,0 +1,1864 @@
+{
+    "fuente": "Tabla_4.2.2.a_Familias_y_subfamilias_RETIE_2026.xlsx",
+    "hoja": "Tabla_estructurada",
+    "familias": [
+        {
+            "numero": "1",
+            "familia": "Aerogeneradores eléctricos de más de 25 V en c.a o más de 50 V en c.c",
+            "opciones": [
+                {
+                    "criterio_1": "No aplica",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "343",
+                    "etiqueta": "No aplica"
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "familia": "Aisladores eléctricos de vidrio, cerámica y otros materiales, para uso en líneas, redes, subestaciones y barrajes eléctricos, de tensión superior a 100 V.",
+            "opciones": [
+                {
+                    "criterio_1": "Aisladores de vidrio, por tipo (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de vidrio, por tipo (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de vidrio, por tipo (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de vidrio, por tipo (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de vidrio, por tipo (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de vidrio, por tipo (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Alta y extra alta tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de porcelana, por tipo (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de porcelana, por tipo (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de porcelana, por tipo (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de porcelana, por tipo (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de porcelana, por tipo (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de porcelana, por tipo (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Alta y extra alta tensión"
+                },
+                {
+                    "criterio_1": "Aisladores poliméricos o en resina, (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores poliméricos o en resina, (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Aisladores poliméricos o en resina, (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores poliméricos o en resina, (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Aisladores poliméricos o en resina, (poste, pin, retención, suspensión, otros)",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores poliméricos o en resina, (poste, pin, retención, suspensión, otros) | Por nivel de tensión | Alta y extra alta tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de suspensión poliméricos o en resina",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de suspensión poliméricos o en resina | Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Aisladores de suspensión poliméricos o en resina",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Aisladores de suspensión poliméricos o en resina | Por nivel de tensión | Alta y extra alta tensión"
+                },
+                {
+                    "criterio_1": "Espaciadores o Separadores de fases poliméricos o en resina.",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Espaciadores o Separadores de fases poliméricos o en resina. | Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Espaciadores o Separadores de fases poliméricos o en resina.",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Espaciadores o Separadores de fases poliméricos o en resina. | Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Espaciadores o Separadores de fases poliméricos o en resina.",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Espaciadores o Separadores de fases poliméricos o en resina. | Por nivel de tensión | Alta y extra alta tensión"
+                },
+                {
+                    "criterio_1": "Pasatapas para transformadores poliméricos o en resina",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Pasatapas para transformadores poliméricos o en resina | Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Pasatapas para transformadores poliméricos o en resina",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Pasatapas para transformadores poliméricos o en resina | Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Pasatapas para transformadores poliméricos o en resina",
+                    "criterio_2": "Por nivel de tensión",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "Aislador de porcelana, Media tensión",
+                    "pagina": "343",
+                    "etiqueta": "Pasatapas para transformadores poliméricos o en resina | Por nivel de tensión | Alta y extra alta tensión"
+                }
+            ]
+        },
+        {
+            "numero": "3",
+            "familia": "Arrancadores directos",
+            "opciones": [
+                {
+                    "criterio_1": "De estado sólido",
+                    "criterio_2": "No aplica",
+                    "subfamilia": "",
+                    "observacion": "Arrancador de estado sólido",
+                    "pagina": "343",
+                    "etiqueta": "De estado sólido | No aplica"
+                },
+                {
+                    "criterio_1": "Electromagnético",
+                    "criterio_2": "",
+                    "subfamilia": "Arrancadores a Tensión Plena o Tensión reducida hasta 1.000 V.",
+                    "observacion": "Arrancador de estado sólido",
+                    "pagina": "343",
+                    "etiqueta": "Electromagnético | Arrancadores a Tensión Plena o Tensión reducida hasta 1.000 V."
+                },
+                {
+                    "criterio_1": "Electromagnético",
+                    "criterio_2": "",
+                    "subfamilia": "No limitativo en potencia",
+                    "observacion": "Arrancador de estado sólido",
+                    "pagina": "343",
+                    "etiqueta": "Electromagnético | No limitativo en potencia"
+                }
+            ]
+        },
+        {
+            "numero": "4",
+            "familia": "Baterías o acumuladores de carga eléctrica para uso en procesos de generación, transmisión y distribución eléctrica, sistemas de potencia ininterrumpida – UPS, sistemas solares fotovoltaicos, eólicos o de almacenamiento de carga para inyectar a la red eléctrica de uso general.",
+            "opciones": [
+                {
+                    "criterio_1": "Por características electroquímicas (plomo ácido, níquel cadmio, ión de litio, otras)",
+                    "criterio_2": "Por paquete operativo",
+                    "subfamilia": "Batería",
+                    "observacion": "Banco de baterías",
+                    "pagina": "343",
+                    "etiqueta": "Por características electroquímicas (plomo ácido, níquel cadmio, ión de litio, otras) | Por paquete operativo | Batería"
+                },
+                {
+                    "criterio_1": "Por características electroquímicas (plomo ácido, níquel cadmio, ión de litio, otras)",
+                    "criterio_2": "Por paquete operativo",
+                    "subfamilia": "Banco de baterías",
+                    "observacion": "Banco de baterías",
+                    "pagina": "343",
+                    "etiqueta": "Por características electroquímicas (plomo ácido, níquel cadmio, ión de litio, otras) | Por paquete operativo | Banco de baterías"
+                }
+            ]
+        },
+        {
+            "numero": "5",
+            "familia": "Cables y conductores eléctricos",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma de fabricación",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "343",
+                    "etiqueta": "Por norma de fabricación"
+                }
+            ]
+        },
+        {
+            "numero": "6",
+            "familia": "Cajas y conduletas, metálicas y no metálicas, usadas para conexiones de circuitos eléctricos, para alojar interruptores manuales y tomacorrientes, para alojar medidores y derivaciones.",
+            "opciones": [
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Metálicas Por uso",
+                    "subfamilia": "Aparatos",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "343",
+                    "etiqueta": "Cajas | Por material Metálicas Por uso | Aparatos"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Metálicas Por uso",
+                    "subfamilia": "Medidores",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "343",
+                    "etiqueta": "Cajas | Por material Metálicas Por uso | Medidores"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Metálicas Por uso",
+                    "subfamilia": "Portabornera",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Metálicas Por uso | Portabornera"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Metálicas Por uso",
+                    "subfamilia": "Empalmes",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Metálicas Por uso | Empalmes"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Plásticas Por uso",
+                    "subfamilia": "Aparatos",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Plásticas Por uso | Aparatos"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Plásticas Por uso",
+                    "subfamilia": "Medidores",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Plásticas Por uso | Medidores"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Plásticas Por uso",
+                    "subfamilia": "Portabornera",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Plásticas Por uso | Portabornera"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Plásticas Por uso",
+                    "subfamilia": "Empalmes",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Plásticas Por uso | Empalmes"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Híbridas Por uso",
+                    "subfamilia": "Aparatos",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Híbridas Por uso | Aparatos"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Híbridas Por uso",
+                    "subfamilia": "Medidores",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Híbridas Por uso | Medidores"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Híbridas Por uso",
+                    "subfamilia": "Portabornera",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Híbridas Por uso | Portabornera"
+                },
+                {
+                    "criterio_1": "Cajas",
+                    "criterio_2": "Por material Híbridas Por uso",
+                    "subfamilia": "Empalmes",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Cajas | Por material Híbridas Por uso | Empalmes"
+                },
+                {
+                    "criterio_1": "Conduletas",
+                    "criterio_2": "",
+                    "subfamilia": "Metálicas",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Conduletas | Metálicas"
+                },
+                {
+                    "criterio_1": "Conduletas",
+                    "criterio_2": "",
+                    "subfamilia": "Plásticas",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Conduletas | Plásticas"
+                },
+                {
+                    "criterio_1": "Conduletas",
+                    "criterio_2": "",
+                    "subfamilia": "Híbridas",
+                    "observacion": "Caja metálica para medidores",
+                    "pagina": "344",
+                    "etiqueta": "Conduletas | Híbridas"
+                }
+            ]
+        },
+        {
+            "numero": "7",
+            "familia": "Cargadores de baterías para vehículos eléctricos distintos a patinetas, bicicletas y motocicletas.",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo de carga C.C o C.C.",
+                    "criterio_2": "",
+                    "subfamilia": "Portátil o emergencia",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Por tipo de carga C.C o C.C. | Portátil o emergencia"
+                },
+                {
+                    "criterio_1": "Por tipo de carga C.C o C.C.",
+                    "criterio_2": "",
+                    "subfamilia": "Caja de muro o de pared (wallbox)",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Por tipo de carga C.C o C.C. | Caja de muro o de pared (wallbox)"
+                },
+                {
+                    "criterio_1": "Por tipo de carga C.C o C.C.",
+                    "criterio_2": "",
+                    "subfamilia": "Estación de carga",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Por tipo de carga C.C o C.C. | Estación de carga"
+                }
+            ]
+        },
+        {
+            "numero": "8",
+            "familia": "Celdas de media tensión.",
+            "opciones": [
+                {
+                    "criterio_1": "Corte y seccionamiento (Compartimentada y/o apta para instalar equipo de medida)",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Aire",
+                    "observacion": "Celda con seccionador en aire Compartimentada",
+                    "pagina": "344",
+                    "etiqueta": "Corte y seccionamiento (Compartimentada y/o apta para instalar equipo de medida) | Por tipo de aislamiento | Aire"
+                },
+                {
+                    "criterio_1": "Corte y seccionamiento (Compartimentada y/o apta para instalar equipo de medida)",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Gas",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Corte y seccionamiento (Compartimentada y/o apta para instalar equipo de medida) | Por tipo de aislamiento | Gas"
+                },
+                {
+                    "criterio_1": "Protección y transferencia o by pass (Conmutación)",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Vacío",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Protección y transferencia o by pass (Conmutación) | Por tipo de aislamiento | Vacío"
+                },
+                {
+                    "criterio_1": "Otras",
+                    "criterio_2": "No aplica",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Otras | No aplica"
+                },
+                {
+                    "criterio_1": "Para bancos de condensadores",
+                    "criterio_2": "No aplica",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Para bancos de condensadores | No aplica"
+                }
+            ]
+        },
+        {
+            "numero": "9",
+            "familia": "Cinta aislante eléctrica",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "Cinta aislante PVC",
+                    "pagina": "344",
+                    "etiqueta": "Por tipo de material"
+                }
+            ]
+        },
+        {
+            "numero": "10",
+            "familia": "Clavijas eléctricas para baja tensión.",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo de uso",
+                    "criterio_2": "",
+                    "subfamilia": "Uso doméstico o similares < a 32 A hasta 250 V",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Por tipo de uso | Uso doméstico o similares < a 32 A hasta 250 V"
+                },
+                {
+                    "criterio_1": "Por tipo de uso",
+                    "criterio_2": "",
+                    "subfamilia": "Uso industrial > 15 A hasta 1000 V",
+                    "observacion": "",
+                    "pagina": "344",
+                    "etiqueta": "Por tipo de uso | Uso industrial > 15 A hasta 1000 V"
+                }
+            ]
+        },
+        {
+            "numero": "11",
+            "familia": "Condensadores de capacidad superior a 3 kVAR y bancos de condensadores con capacidad nominal superior a 5 kVAR de baja y de media tensión.",
+            "opciones": [
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Condensador de 3 kVAR de baja tensión",
+                    "pagina": "344",
+                    "etiqueta": "Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Condensador de 3 kVAR de baja tensión",
+                    "pagina": "344",
+                    "etiqueta": "Por nivel de tensión | Media tensión"
+                }
+            ]
+        },
+        {
+            "numero": "12",
+            "familia": "Conectores, bornes, terminales y empalmes para conductores de circuitos eléctricos.",
+            "opciones": [
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión no aislados para uso en redes aéreas Por material",
+                    "subfamilia": "Cobre",
+                    "observacion": "Conector en aluminio para redes áreas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión no aislados para uso en redes aéreas Por material | Cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión no aislados para uso en redes aéreas Por material",
+                    "subfamilia": "Aluminio",
+                    "observacion": "Conector en aluminio para redes áreas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión no aislados para uso en redes aéreas Por material | Aluminio"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión no aislados para uso en redes aéreas Por material",
+                    "subfamilia": "Bimetálico",
+                    "observacion": "Conector en aluminio para redes áreas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión no aislados para uso en redes aéreas Por material | Bimetálico"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión no aislados para uso en redes aéreas Por material",
+                    "subfamilia": "Aleaciones de cobre",
+                    "observacion": "Conector en aluminio para redes áreas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión no aislados para uso en redes aéreas Por material | Aleaciones de cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados para uso en redes “tipo piercing” Por material",
+                    "subfamilia": "Cobre",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados para uso en redes “tipo piercing” Por material | Cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados para uso en redes “tipo piercing” Por material",
+                    "subfamilia": "Aluminio",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados para uso en redes “tipo piercing” Por material | Aluminio"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados para uso en redes “tipo piercing” Por material",
+                    "subfamilia": "Bimetálico",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados para uso en redes “tipo piercing” Por material | Bimetálico"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados para uso en redes “tipo piercing” Por material",
+                    "subfamilia": "Aleaciones de cobre",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados para uso en redes “tipo piercing” Por material | Aleaciones de cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados o no aislados para instalaciones de uso final Por material",
+                    "subfamilia": "Cobre",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados o no aislados para instalaciones de uso final Por material | Cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados o no aislados para instalaciones de uso final Por material",
+                    "subfamilia": "Aluminio",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados o no aislados para instalaciones de uso final Por material | Aluminio"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados o no aislados para instalaciones de uso final Por material",
+                    "subfamilia": "Bimetálico",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados o no aislados para instalaciones de uso final Por material | Bimetálico"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Elementos de conexión aislados o no aislados para instalaciones de uso final Por material",
+                    "subfamilia": "Aleaciones de cobre",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Elementos de conexión aislados o no aislados para instalaciones de uso final Por material | Aleaciones de cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "",
+                    "subfamilia": "Terminales premoldeados",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Terminales premoldeados"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Conectores para el electrodo y conductor de puesta a tierra Por material",
+                    "subfamilia": "Cobre",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Conectores para el electrodo y conductor de puesta a tierra Por material | Cobre"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Conectores para el electrodo y conductor de puesta a tierra Por material",
+                    "subfamilia": "Aluminio",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Conectores para el electrodo y conductor de puesta a tierra Por material | Aluminio"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Conectores para el electrodo y conductor de puesta a tierra Por material",
+                    "subfamilia": "Bimetálico",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Conectores para el electrodo y conductor de puesta a tierra Por material | Bimetálico"
+                },
+                {
+                    "criterio_1": "Conectores",
+                    "criterio_2": "Conectores para el electrodo y conductor de puesta a tierra Por material",
+                    "subfamilia": "Aleaciones de cobre",
+                    "observacion": "Conector en cobre para redes subterráneas",
+                    "pagina": "344",
+                    "etiqueta": "Conectores | Conectores para el electrodo y conductor de puesta a tierra Por material | Aleaciones de cobre"
+                },
+                {
+                    "criterio_1": "Terminales, bloques terminales y borneras de conexión",
+                    "criterio_2": "Por norma técnica",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Terminales, bloques terminales y borneras de conexión | Por norma técnica"
+                },
+                {
+                    "criterio_1": "Empalmes",
+                    "criterio_2": "Por norma técnica",
+                    "subfamilia": "Para redes aéreas de media tensión",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Empalmes | Por norma técnica | Para redes aéreas de media tensión"
+                },
+                {
+                    "criterio_1": "Empalmes",
+                    "criterio_2": "Por norma técnica",
+                    "subfamilia": "Para redes subterráneas",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Empalmes | Por norma técnica | Para redes subterráneas"
+                }
+            ]
+        },
+        {
+            "numero": "13",
+            "familia": "Contactores eléctricos para corrientes superiores a 15 A.",
+            "opciones": [
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "Contactores de baja tensión",
+                    "pagina": "345",
+                    "etiqueta": "Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Media tensión",
+                    "observacion": "Contactores de baja tensión",
+                    "pagina": "345",
+                    "etiqueta": "Por nivel de tensión | Media tensión"
+                }
+            ]
+        },
+        {
+            "numero": "14",
+            "familia": "Cercas eléctricas.",
+            "opciones": [
+                {
+                    "criterio_1": "No aplica",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "No aplica"
+                }
+            ]
+        },
+        {
+            "numero": "15",
+            "familia": "Crucetas de uso en estructuras de apoyo de redes eléctricas y brazos para postes de alumbrado público.",
+            "opciones": [
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Metálicas",
+                    "observacion": "Cruceta metálicas para redes eléctricas",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Metálicas"
+                },
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Madera",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Madera"
+                },
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Poliméricas o resina",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Poliméricas o resina"
+                },
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Otras",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Otras"
+                }
+            ]
+        },
+        {
+            "numero": "16",
+            "familia": "Cuartos de subestación paquetizados o prefabricados.",
+            "opciones": [
+                {
+                    "criterio_1": "No Aplica",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "No Aplica"
+                }
+            ]
+        },
+        {
+            "numero": "17",
+            "familia": "Dispositivos de protección contra sobretensiones transitorias para menos de 1.000 V.",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma de fabricación",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por norma de fabricación"
+                }
+            ]
+        },
+        {
+            "numero": "18",
+            "familia": "Dispositivos de protección contra sobretensiones transitorias para 1.000 V o más.",
+            "opciones": [
+                {
+                    "criterio_1": "Por nivel de corriente de descarga",
+                    "criterio_2": "",
+                    "subfamilia": "<10 kA",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por nivel de corriente de descarga | <10 kA"
+                }
+            ]
+        },
+        {
+            "numero": "19",
+            "familia": "Duchas y calentadores eléctricos de paso.",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Duchas",
+                    "observacion": "Calentador de paso eléctrico",
+                    "pagina": "345",
+                    "etiqueta": "Por tipo | Duchas"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Calentadores de paso",
+                    "observacion": "Calentador de paso eléctrico",
+                    "pagina": "345",
+                    "etiqueta": "Por tipo | Calentadores de paso"
+                }
+            ]
+        },
+        {
+            "numero": "20",
+            "familia": "Electrobombas",
+            "opciones": [
+                {
+                    "criterio_1": "Por uso",
+                    "criterio_2": "Superficiales",
+                    "subfamilia": "Hasta 15 hp",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por uso | Superficiales | Hasta 15 hp"
+                },
+                {
+                    "criterio_1": "Por uso",
+                    "criterio_2": "Superficiales",
+                    "subfamilia": "Mayores a 15 hp hasta 50 hp",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por uso | Superficiales | Mayores a 15 hp hasta 50 hp"
+                },
+                {
+                    "criterio_1": "Por uso",
+                    "criterio_2": "Superficiales",
+                    "subfamilia": "Mayores a 50 hp",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por uso | Superficiales | Mayores a 50 hp"
+                },
+                {
+                    "criterio_1": "Por uso",
+                    "criterio_2": "Sumergibles y de pozos profundos",
+                    "subfamilia": "Hasta 15 hp",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por uso | Sumergibles y de pozos profundos | Hasta 15 hp"
+                },
+                {
+                    "criterio_1": "Por uso",
+                    "criterio_2": "Sumergibles y de pozos profundos",
+                    "subfamilia": "Mayores a 15 hp hasta 50 hp",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por uso | Sumergibles y de pozos profundos | Mayores a 15 hp hasta 50 hp"
+                },
+                {
+                    "criterio_1": "Por uso",
+                    "criterio_2": "Sumergibles y de pozos profundos",
+                    "subfamilia": "Mayores a 50 hp",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por uso | Sumergibles y de pozos profundos | Mayores a 50 hp"
+                }
+            ]
+        },
+        {
+            "numero": "21",
+            "familia": "Electrodos de puesta a tierra en cobre, aleaciones con más del 80% en cobre, acero inoxidable, acero recubierto en cobre, acero con recubrimiento galvanizado o cualquier tipo de material usado como electrodo de puesta a tierra.",
+            "opciones": [
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Cobre",
+                    "observacion": "Varilla de puesta a tierra en cobre Pletina de cobre para puesta a tierra",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Cobre"
+                },
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Aluminio",
+                    "observacion": "Varilla de puesta a tierra en cobre Pletina de cobre para puesta a tierra",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Aluminio"
+                },
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Bimetálico",
+                    "observacion": "Varilla de puesta a tierra en cobre Pletina de cobre para puesta a tierra",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Bimetálico"
+                },
+                {
+                    "criterio_1": "Tipo de material",
+                    "criterio_2": "",
+                    "subfamilia": "Aleaciones de cobre",
+                    "observacion": "Varilla de puesta a tierra en cobre Pletina de cobre para puesta a tierra",
+                    "pagina": "345",
+                    "etiqueta": "Tipo de material | Aleaciones de cobre"
+                }
+            ]
+        },
+        {
+            "numero": "22",
+            "familia": "Estructuras de líneas de transmisión y redes de distribución, incluye torrecillas y los perfiles metálicos exclusivos para ese uso.",
+            "opciones": [
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Estructuras de redes de distribución",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Estructuras de redes de distribución"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Torres y torrecillas",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Torres y torrecillas"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Perfiles metálicos",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Perfiles metálicos"
+                }
+            ]
+        },
+        {
+            "numero": "23",
+            "familia": "Extensiones y multitomas eléctricas para tensión menor a 600 V.",
+            "opciones": [
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Extensiones",
+                    "observacion": "Extensiones",
+                    "pagina": "345",
+                    "etiqueta": "Extensiones"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Multitomas (adaptador, supresor de picos para electrodomésticos)",
+                    "observacion": "Extensiones",
+                    "pagina": "345",
+                    "etiqueta": "Multitomas (adaptador, supresor de picos para electrodomésticos)"
+                }
+            ]
+        },
+        {
+            "numero": "24",
+            "familia": "Fusibles y portafusibles para instalaciones eléctricas.",
+            "opciones": [
+                {
+                    "criterio_1": "Por capacidad de ruptura",
+                    "criterio_2": "",
+                    "subfamilia": "Hasta 50 kA",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por capacidad de ruptura | Hasta 50 kA"
+                },
+                {
+                    "criterio_1": "Por capacidad de ruptura",
+                    "criterio_2": "",
+                    "subfamilia": "Mayores a 50 kA",
+                    "observacion": "",
+                    "pagina": "345",
+                    "etiqueta": "Por capacidad de ruptura | Mayores a 50 kA"
+                }
+            ]
+        },
+        {
+            "numero": "25",
+            "familia": "Generadores eléctricos de potencia igual o mayor a 1 kW, y grupos electrógenos de potencia mayor o igual a 1 kW hasta 1.000 kW",
+            "opciones": [
+                {
+                    "criterio_1": "Por potencia",
+                    "criterio_2": "",
+                    "subfamilia": "Hasta 75 kVA",
+                    "observacion": "Generador eléctrico de 400 kVA",
+                    "pagina": "345",
+                    "etiqueta": "Por potencia | Hasta 75 kVA"
+                },
+                {
+                    "criterio_1": "Por potencia",
+                    "criterio_2": "",
+                    "subfamilia": "Mayores de 75 kVA hasta 400 kVA",
+                    "observacion": "Generador eléctrico de 400 kVA",
+                    "pagina": "345",
+                    "etiqueta": "Por potencia | Mayores de 75 kVA hasta 400 kVA"
+                },
+                {
+                    "criterio_1": "Por potencia",
+                    "criterio_2": "",
+                    "subfamilia": "Mayores a 400 kVA",
+                    "observacion": "Generador eléctrico de 400 kVA",
+                    "pagina": "346",
+                    "etiqueta": "Por potencia | Mayores a 400 kVA"
+                }
+            ]
+        },
+        {
+            "numero": "26",
+            "familia": "Herrajes para líneas de transmisión y redes de distribución eléctrica.",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma técnica",
+                    "criterio_2": "",
+                    "subfamilia": "Por cada material",
+                    "observacion": "Anclaje en aluminio",
+                    "pagina": "346",
+                    "etiqueta": "Por norma técnica | Por cada material"
+                }
+            ]
+        },
+        {
+            "numero": "27",
+            "familia": "Interruptores o disyuntores automáticos para tensión menor a 1 000 V.",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma técnica",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "1.Interruptor enchufable, interruptor tipo riel 2.Interruptores limitadores de corriente 3.Interruptores de disparo instantáneo 4.Interruptores automáticos con protección contra falla a tierra 5.Interruptores con fusible integrado y protectores de falla de alta corriente 6.Interruptores ajustables 7.Interruptores con disparo intercambiables 8.Interruptores tipo removible 9.Interruptores diferenciales 10. Interruptores en aire",
+                    "pagina": "346",
+                    "etiqueta": "Por norma técnica"
+                }
+            ]
+        },
+        {
+            "numero": "28",
+            "familia": "Interruptores manuales o “switches” de baja tensión y dimmers o atenuadores de luz (menor a 1 000 V).",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Interruptores de uso doméstico y similar para empotrar o sobreponer",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Interruptores de uso doméstico y similar para empotrar o sobreponer"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Interruptores de uso industrial",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Interruptores de uso industrial"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Los dimmers o atenuadores de iluminación de uso doméstico y similar para empotrar o sobreponer.",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Los dimmers o atenuadores de iluminación de uso doméstico y similar para empotrar o sobreponer."
+                }
+            ]
+        },
+        {
+            "numero": "29",
+            "familia": "Interruptores de media tensión.",
+            "opciones": [
+                {
+                    "criterio_1": "Por sistema de interrupción",
+                    "criterio_2": "",
+                    "subfamilia": "Vacío",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por sistema de interrupción | Vacío"
+                },
+                {
+                    "criterio_1": "Por sistema de interrupción",
+                    "criterio_2": "",
+                    "subfamilia": "SF₆",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por sistema de interrupción | SF₆"
+                },
+                {
+                    "criterio_1": "Por sistema de interrupción",
+                    "criterio_2": "",
+                    "subfamilia": "Otros",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por sistema de interrupción | Otros"
+                }
+            ]
+        },
+        {
+            "numero": "30",
+            "familia": "Inversores de corriente continua a alterna, para sistemas solares fotovoltaicos, eólicos y otros procesos de generación o almacenamiento de energía eléctrica que requiera conversión c.c./c.a.",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma técnica",
+                    "criterio_2": "",
+                    "subfamilia": "Hasta 50 kW",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por norma técnica | Hasta 50 kW"
+                },
+                {
+                    "criterio_1": "Por norma técnica",
+                    "criterio_2": "",
+                    "subfamilia": "Mayores de 50 kW",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por norma técnica | Mayores de 50 kW"
+                }
+            ]
+        },
+        {
+            "numero": "31",
+            "familia": "Motores eléctricos para tensiones nominales mayores a 25 V c.a. y 50 V c.c., de potencias iguales o mayores a 375 W, monofásicos o polifásicos, incluyendo aquellos incorporados a reductores o amplificadores de velocidad.",
+            "opciones": [
+                {
+                    "criterio_1": "Motores Baja tensión c.a",
+                    "criterio_2": "",
+                    "subfamilia": "Monofásicos",
+                    "observacion": "Motor de jaula de ardilla 3F 220V, 37,285 kW Motor de rotor devanado 3F 220V 18,642 kW",
+                    "pagina": "346",
+                    "etiqueta": "Motores Baja tensión c.a | Monofásicos"
+                },
+                {
+                    "criterio_1": "Motores Baja tensión c.a",
+                    "criterio_2": "",
+                    "subfamilia": "Bifásicos",
+                    "observacion": "Motor de jaula de ardilla 3F 220V, 37,285 kW Motor de rotor devanado 3F 220V 18,642 kW",
+                    "pagina": "346",
+                    "etiqueta": "Motores Baja tensión c.a | Bifásicos"
+                },
+                {
+                    "criterio_1": "Motores Baja tensión c.a",
+                    "criterio_2": "",
+                    "subfamilia": "Trifásicos",
+                    "observacion": "Motor de jaula de ardilla 3F 220V, 37,285 kW Motor de rotor devanado 3F 220V 18,642 kW",
+                    "pagina": "346",
+                    "etiqueta": "Motores Baja tensión c.a | Trifásicos"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Motores de media tensión c.a",
+                    "observacion": "Motor de jaula de ardilla 3F 220V, 37,285 kW Motor de rotor devanado 3F 220V 18,642 kW",
+                    "pagina": "346",
+                    "etiqueta": "Motores de media tensión c.a"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Motores c.c",
+                    "observacion": "Motor de jaula de ardilla 3F 220V, 37,285 kW Motor de rotor devanado 3F 220V 18,642 kW",
+                    "pagina": "346",
+                    "etiqueta": "Motores c.c"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Motores mixtos c.c/c.a",
+                    "observacion": "Motor de jaula de ardilla 3F 220V, 37,285 kW Motor de rotor devanado 3F 220V 18,642 kW",
+                    "pagina": "346",
+                    "etiqueta": "Motores mixtos c.c/c.a"
+                }
+            ]
+        },
+        {
+            "numero": "32",
+            "familia": "Paneles solares fotovoltaicos para uso en instalaciones eléctricas de construcciones residenciales, comerciales, industriales, de uso público o cualquier aplicación que inyecte corriente a la red eléctrica de uso general.",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Monocristalinos",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Monocristalinos"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Policristalinos",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Policristalinos"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Amorfos",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Amorfos"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Otros",
+                    "observacion": "",
+                    "pagina": "346",
+                    "etiqueta": "Por tipo | Otros"
+                }
+            ]
+        },
+        {
+            "numero": "33",
+            "familia": "Equipos especiales: ascensores, escaleras electromecánicas, pasillos, andenes y rampas para el transporte de personas, grúas colgantes, elevadores de carga, polipastos, duplicadores de parqueo u otros.",
+            "opciones": [
+                {
+                    "criterio_1": "Por equipo",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "Ascensores Andenes Escaleras eléctricas Pasillos Andenes Grúas Elevadores de carga Duplicadores de parqueo",
+                    "pagina": "347",
+                    "etiqueta": "Por equipo"
+                }
+            ]
+        },
+        {
+            "numero": "34",
+            "familia": "Postes de concreto, metálicos, madera u otros materiales, para uso en redes y líneas eléctricas y alumbrado público",
+            "opciones": [
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Concreto",
+                    "subfamilia": "Para redes de energía",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | Concreto | Para redes de energía"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Concreto",
+                    "subfamilia": "Para redes de alumbrado público",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | Concreto | Para redes de alumbrado público"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Metálicos",
+                    "subfamilia": "Para redes de energía",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | Metálicos | Para redes de energía"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Metálicos",
+                    "subfamilia": "Para redes de alumbrado público",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | Metálicos | Para redes de alumbrado público"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "PRFV",
+                    "subfamilia": "Para redes de energía",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | PRFV | Para redes de energía"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "PRFV",
+                    "subfamilia": "Para redes de alumbrado público",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | PRFV | Para redes de alumbrado público"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Madera",
+                    "subfamilia": "Para redes de energía",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | Madera | Para redes de energía"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Madera",
+                    "subfamilia": "Para redes de alumbrado público",
+                    "observacion": "Postes en concreto para redes de energía",
+                    "pagina": "347",
+                    "etiqueta": "Por material | Madera | Para redes de alumbrado público"
+                }
+            ]
+        },
+        {
+            "numero": "35",
+            "familia": "Productos eléctricos para instalaciones en instituciones de asistencia médica y sistemas contraincendio: (bombas contraincendio y su controlador, monitor de aislamiento, transformador de aislamiento y tablero de aislamiento)",
+            "opciones": [
+                {
+                    "criterio_1": "Por producto",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "Bombas contraincendio Controlador de bomba contraincendio Monitor de aislamiento Transformador de aislamiento Tablero de aislamiento",
+                    "pagina": "347",
+                    "etiqueta": "Por producto"
+                }
+            ]
+        },
+        {
+            "numero": "36",
+            "familia": "Productos para instalaciones eléctricas áreas clasificadas como peligrosas, incluyendo minas y túneles",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma técnica",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Por norma técnica"
+                }
+            ]
+        },
+        {
+            "numero": "37",
+            "familia": "Productos para sistemas cortafuego para uso en bóvedas de subestaciones eléctricas (incluye puertas cortafuego, compuertas de ventilación “dampers”, sellos cortafuego)",
+            "opciones": [
+                {
+                    "criterio_1": "Por norma técnica",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Por norma técnica"
+                }
+            ]
+        },
+        {
+            "numero": "38",
+            "familia": "Puestas a tierra temporales.",
+            "opciones": [
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Baja tensión",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Por nivel de tensión | Baja tensión"
+                },
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Media tensión",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Por nivel de tensión | Media tensión"
+                },
+                {
+                    "criterio_1": "Por nivel de tensión",
+                    "criterio_2": "",
+                    "subfamilia": "Alta y extra alta tensión",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Por nivel de tensión | Alta y extra alta tensión"
+                }
+            ]
+        },
+        {
+            "numero": "39",
+            "familia": "Pulsadores eléctricos utilizados como accionamiento manual para conexión y desconexión de circuitos eléctricos y selectores de posición.",
+            "opciones": [
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Pulsadores",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Pulsadores"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Selectores",
+                    "observacion": "",
+                    "pagina": "347",
+                    "etiqueta": "Selectores"
+                }
+            ]
+        },
+        {
+            "numero": "40",
+            "familia": "Reconectadores, seccionadores, seccionalizadores y cortacircuitos de media tensión.",
+            "opciones": [
+                {
+                    "criterio_1": "Reconectadores",
+                    "criterio_2": "Por número de fases Monofásicos Por tipo de aislamiento",
+                    "subfamilia": "Aire",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "347",
+                    "etiqueta": "Reconectadores | Por número de fases Monofásicos Por tipo de aislamiento | Aire"
+                },
+                {
+                    "criterio_1": "Seccionadores",
+                    "criterio_2": "Por número de fases Monofásicos Por tipo de aislamiento",
+                    "subfamilia": "Gas",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "347",
+                    "etiqueta": "Seccionadores | Por número de fases Monofásicos Por tipo de aislamiento | Gas"
+                },
+                {
+                    "criterio_1": "Seccionalizadores",
+                    "criterio_2": "Por número de fases Trifásicos Por tipo de aislamiento",
+                    "subfamilia": "Vacío",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "347",
+                    "etiqueta": "Seccionalizadores | Por número de fases Trifásicos Por tipo de aislamiento | Vacío"
+                },
+                {
+                    "criterio_1": "Seccionalizadores",
+                    "criterio_2": "Por número de fases Trifásicos Por tipo de aislamiento",
+                    "subfamilia": "Otros",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "348",
+                    "etiqueta": "Seccionalizadores | Por número de fases Trifásicos Por tipo de aislamiento | Otros"
+                },
+                {
+                    "criterio_1": "Cortacircuitos",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Aire",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "348",
+                    "etiqueta": "Cortacircuitos | Por tipo de aislamiento | Aire"
+                },
+                {
+                    "criterio_1": "Cortacircuitos",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Gas",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "348",
+                    "etiqueta": "Cortacircuitos | Por tipo de aislamiento | Gas"
+                },
+                {
+                    "criterio_1": "Cortacircuitos",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Vacío",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "348",
+                    "etiqueta": "Cortacircuitos | Por tipo de aislamiento | Vacío"
+                },
+                {
+                    "criterio_1": "Cortacircuitos",
+                    "criterio_2": "Por tipo de aislamiento",
+                    "subfamilia": "Otros",
+                    "observacion": "Reconectador trifásico aislado en gas",
+                    "pagina": "348",
+                    "etiqueta": "Cortacircuitos | Por tipo de aislamiento | Otros"
+                }
+            ]
+        },
+        {
+            "numero": "41",
+            "familia": "Relés de protección contra sobrecargas.",
+            "opciones": [
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Térmicos",
+                    "observacion": "Relé electrónico",
+                    "pagina": "348",
+                    "etiqueta": "Térmicos"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Termomagnéticos",
+                    "observacion": "Relé electrónico",
+                    "pagina": "348",
+                    "etiqueta": "Termomagnéticos"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Electrónicos",
+                    "observacion": "Relé electrónico",
+                    "pagina": "348",
+                    "etiqueta": "Electrónicos"
+                }
+            ]
+        },
+        {
+            "numero": "42",
+            "familia": "Reguladores o controladores de tensión para baterías usadas en sistemas solares fotovoltaicos o eólicos, o sistemas de acumulación para inyectar energía eléctrica a la red de uso general.",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "PWM",
+                    "observacion": "Regulador MPPT",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | PWM"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "MPPT",
+                    "observacion": "Regulador MPPT",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | MPPT"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "Otros",
+                    "observacion": "Regulador MPPT",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | Otros"
+                }
+            ]
+        },
+        {
+            "numero": "43",
+            "familia": "Sistemas Bandejas portacables para uso eléctrico.",
+            "opciones": [
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Por tipo",
+                    "subfamilia": "Escalera",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Por tipo | Escalera"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Por tipo",
+                    "subfamilia": "Malla",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Por tipo | Malla"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Por tipo",
+                    "subfamilia": "Perforada",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Por tipo | Perforada"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "Por tipo",
+                    "subfamilia": "Otros",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Por tipo | Otros"
+                }
+            ]
+        },
+        {
+            "numero": "44",
+            "familia": "Sistemas de Canales y Sistema de conductos cerrados de sección no circular para uso eléctrico, metálicas y no metálicas.",
+            "opciones": [
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "",
+                    "subfamilia": "Metálicas",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Metálicas"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "",
+                    "subfamilia": "Plásticas",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Plásticas"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "",
+                    "subfamilia": "Otras",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por material | Otras"
+                }
+            ]
+        },
+        {
+            "numero": "45",
+            "familia": "Sistemas Canalizaciones con barras o ductos con barras (Electrobarras, Electroductos, Bus de Barras o “Busway”).",
+            "opciones": [
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "De baja tensión",
+                    "subfamilia": "Iluminación",
+                    "observacion": "Electroducto de cobre 600 A de Baja tensión para potencia",
+                    "pagina": "348",
+                    "etiqueta": "Por material | De baja tensión | Iluminación"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "De baja tensión",
+                    "subfamilia": "Power Track",
+                    "observacion": "Electroducto de cobre 600 A de Baja tensión para potencia",
+                    "pagina": "348",
+                    "etiqueta": "Por material | De baja tensión | Power Track"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "De baja tensión",
+                    "subfamilia": "Potencia",
+                    "observacion": "Electroducto de cobre 600 A de Baja tensión para potencia",
+                    "pagina": "348",
+                    "etiqueta": "Por material | De baja tensión | Potencia"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "De media tensión",
+                    "subfamilia": "Iluminación",
+                    "observacion": "Electroducto de cobre 600 A de Baja tensión para potencia",
+                    "pagina": "348",
+                    "etiqueta": "Por material | De media tensión | Iluminación"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "De media tensión",
+                    "subfamilia": "Power Track",
+                    "observacion": "Electroducto de cobre 600 A de Baja tensión para potencia",
+                    "pagina": "348",
+                    "etiqueta": "Por material | De media tensión | Power Track"
+                },
+                {
+                    "criterio_1": "Por material",
+                    "criterio_2": "De media tensión",
+                    "subfamilia": "Potencia",
+                    "observacion": "Electroducto de cobre 600 A de Baja tensión para potencia",
+                    "pagina": "348",
+                    "etiqueta": "Por material | De media tensión | Potencia"
+                }
+            ]
+        },
+        {
+            "numero": "46",
+            "familia": "Sistemas de tubos",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "",
+                    "subfamilia": "",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo"
+                }
+            ]
+        },
+        {
+            "numero": "47",
+            "familia": "Tableros eléctricos de baja tensión, incluyendo los armarios, cofres, envolventes o encerramientos utilizados para ensamble o construcción de tableros de tensión inferior o igual a 1 000 V.",
+            "opciones": [
+                {
+                    "criterio_1": "Tableros de potencia",
+                    "criterio_2": "",
+                    "subfamilia": "Transferencia",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tableros de potencia | Transferencia"
+                },
+                {
+                    "criterio_1": "Tableros de potencia",
+                    "criterio_2": "",
+                    "subfamilia": "Centro de control de motores (arrancadores directos, arrancadores suaves, variadores de frecuencia y sincronismo)",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tableros de potencia | Centro de control de motores (arrancadores directos, arrancadores suaves, variadores de frecuencia y sincronismo)"
+                },
+                {
+                    "criterio_1": "Tableros de potencia",
+                    "criterio_2": "",
+                    "subfamilia": "General de acometidas (distribución de potencia y medidores cuando tenga barraje)",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tableros de potencia | General de acometidas (distribución de potencia y medidores cuando tenga barraje)"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Tableros de control (a excepción de los tableros con corrientes nominales inferiores a 15A y que no contengan barrajes)",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tableros de control (a excepción de los tableros con corrientes nominales inferiores a 15A y que no contengan barrajes)"
+                },
+                {
+                    "criterio_1": "Tableros de distribución para manipulación de persona no electricista, hasta 250 A",
+                    "criterio_2": "",
+                    "subfamilia": "Tipo enchufable",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tableros de distribución para manipulación de persona no electricista, hasta 250 A | Tipo enchufable"
+                },
+                {
+                    "criterio_1": "Tableros de distribución para manipulación de persona no electricista, hasta 250 A",
+                    "criterio_2": "",
+                    "subfamilia": "Tipo Riel",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tableros de distribución para manipulación de persona no electricista, hasta 250 A | Tipo Riel"
+                }
+            ]
+        },
+        {
+            "numero": "48",
+            "familia": "Tomacorrientes para uso general o aplicaciones en instalaciones especiales para baja tensión.",
+            "opciones": [
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Uso doméstico y similar mayores o iguales a 15 A",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Uso doméstico y similar mayores o iguales a 15 A"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Tomacorriente GFCI",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Tomacorriente GFCI"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Grado hospitalario",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Grado hospitalario"
+                },
+                {
+                    "criterio_1": "",
+                    "criterio_2": "",
+                    "subfamilia": "Uso industrial",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Uso industrial"
+                }
+            ]
+        },
+        {
+            "numero": "49",
+            "familia": "Transformadores eléctricos de distribución y de potencia de capacidad mayor o igual a 3 kVA y tensión mayor de 100 V.",
+            "opciones": [
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores sumergidos en líquido refrigerante Por nivel de tensión",
+                    "subfamilia": "Hasta 1.000 V",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | Transformadores sumergidos en líquido refrigerante Por nivel de tensión | Hasta 1.000 V"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores sumergidos en líquido refrigerante Por nivel de tensión",
+                    "subfamilia": "Mayores a 1.000 V hasta 36 kV",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | Transformadores sumergidos en líquido refrigerante Por nivel de tensión | Mayores a 1.000 V hasta 36 kV"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores sumergidos en líquido refrigerante Por nivel de tensión",
+                    "subfamilia": "Mayores a 36 kV",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | Transformadores sumergidos en líquido refrigerante Por nivel de tensión | Mayores a 36 kV"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores secos aislados en aire Por nivel de tensión",
+                    "subfamilia": "Hasta 1.000 V",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | Transformadores secos aislados en aire Por nivel de tensión | Hasta 1.000 V"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores secos aislados en aire Por nivel de tensión",
+                    "subfamilia": "Mayores a 1.000 V hasta 36 kV",
+                    "observacion": "",
+                    "pagina": "348",
+                    "etiqueta": "Por tipo | Transformadores secos aislados en aire Por nivel de tensión | Mayores a 1.000 V hasta 36 kV"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores secos aislados en aire Por nivel de tensión",
+                    "subfamilia": "Mayores a 36 kV",
+                    "observacion": "",
+                    "pagina": "349",
+                    "etiqueta": "Por tipo | Transformadores secos aislados en aire Por nivel de tensión | Mayores a 36 kV"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores secos aislados en resina Por nivel de tensión",
+                    "subfamilia": "Hasta 1.000 V",
+                    "observacion": "",
+                    "pagina": "349",
+                    "etiqueta": "Por tipo | Transformadores secos aislados en resina Por nivel de tensión | Hasta 1.000 V"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores secos aislados en resina Por nivel de tensión",
+                    "subfamilia": "Mayores a 1.000 V hasta 36 kV",
+                    "observacion": "",
+                    "pagina": "349",
+                    "etiqueta": "Por tipo | Transformadores secos aislados en resina Por nivel de tensión | Mayores a 1.000 V hasta 36 kV"
+                },
+                {
+                    "criterio_1": "Por tipo",
+                    "criterio_2": "Transformadores secos aislados en resina Por nivel de tensión",
+                    "subfamilia": "Mayores a 36 kV",
+                    "observacion": "",
+                    "pagina": "349",
+                    "etiqueta": "Por tipo | Transformadores secos aislados en resina Por nivel de tensión | Mayores a 36 kV"
+                }
+            ]
+        },
+        {
+            "numero": "50",
+            "familia": "Unidades de potencia ininterrumpidas – UPS.",
+            "opciones": [
+                {
+                    "criterio_1": "Por número de fases",
+                    "criterio_2": "",
+                    "subfamilia": "Monofásicas",
+                    "observacion": "Ups monofásica",
+                    "pagina": "349",
+                    "etiqueta": "Por número de fases | Monofásicas"
+                },
+                {
+                    "criterio_1": "Por número de fases",
+                    "criterio_2": "",
+                    "subfamilia": "Bifásicas",
+                    "observacion": "Ups monofásica",
+                    "pagina": "349",
+                    "etiqueta": "Por número de fases | Bifásicas"
+                },
+                {
+                    "criterio_1": "Por número de fases",
+                    "criterio_2": "",
+                    "subfamilia": "Trifásicas",
+                    "observacion": "Ups monofásica",
+                    "pagina": "349",
+                    "etiqueta": "Por número de fases | Trifásicas"
+                }
+            ]
+        },
+        {
+            "numero": "51",
+            "familia": "Unidades de tensión regulada (reguladores de tensión) de potencia mayor a 500 VA.",
+            "opciones": [
+                {
+                    "criterio_1": "Cantidad de fases",
+                    "criterio_2": "",
+                    "subfamilia": "Monofásico",
+                    "observacion": "Regulador de tensión monofásico",
+                    "pagina": "349",
+                    "etiqueta": "Cantidad de fases | Monofásico"
+                },
+                {
+                    "criterio_1": "Cantidad de fases",
+                    "criterio_2": "",
+                    "subfamilia": "Bifásico",
+                    "observacion": "Regulador de tensión monofásico",
+                    "pagina": "349",
+                    "etiqueta": "Cantidad de fases | Bifásico"
+                },
+                {
+                    "criterio_1": "Cantidad de fases",
+                    "criterio_2": "",
+                    "subfamilia": "Trifásico",
+                    "observacion": "Regulador de tensión monofásico",
+                    "pagina": "349",
+                    "etiqueta": "Cantidad de fases | Trifásico"
+                }
+            ]
+        }
+    ]
+}
