@@ -12,6 +12,8 @@ Está desarrollada en PHP nativo, CSS y JavaScript sin proceso de compilación f
 
 El despliegue institucional y la respuesta a los requisitos de TIC están documentados en `docs/despliegue_servimeters.md` y `docs/respuesta_requisitos_tic.md`.
 
+La validación técnica del 16-10-2026 (estado, comparación con los aplicativos en producción, cambios pendientes, tiempos y flujo) está en `docs/validacion_2026-10-16.md`.
+
 ## Cómo usarlo
 
 1. Abrir `http://localhost/Software%20producto/login.php` en un navegador moderno, con Apache/XAMPP activo.
